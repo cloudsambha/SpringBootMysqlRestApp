@@ -1,0 +1,6 @@
+com/springboot/app/service/StudentServiceImpl.class
+com/springboot/app/entity/Student.class
+com/springboot/app/controller/StudentController.class
+com/springboot/app/Myapplication.class
+com/springboot/app/repository/StudentRepository.class
+com/springboot/app/service/StudentService.class
