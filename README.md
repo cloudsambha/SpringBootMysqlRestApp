@@ -1,1 +1,3 @@
-I  will Write
+Create Database on MySQL
+CREATE TABLE
+SEE IMAGES
